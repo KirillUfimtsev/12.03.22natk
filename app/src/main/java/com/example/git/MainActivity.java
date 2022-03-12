@@ -19,7 +19,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 // Комментарий
 public class MainActivity extends AppCompatActivity {
-
+// Комментарий 2
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
 
