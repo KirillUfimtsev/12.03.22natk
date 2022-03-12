@@ -14,7 +14,7 @@ import com.example.git.databinding.FragmentSecondBinding;
 public class SecondFragment extends Fragment {
 
     private FragmentSecondBinding binding;
-
+// Пятый комментарий
     @Override
     public View onCreateView(
             LayoutInflater inflater, ViewGroup container,
