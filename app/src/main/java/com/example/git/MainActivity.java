@@ -17,7 +17,7 @@ import com.example.git.databinding.ActivityMainBinding;
 
 import android.view.Menu;
 import android.view.MenuItem;
-
+// Комментарий
 public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration appBarConfiguration;
